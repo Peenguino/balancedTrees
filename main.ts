@@ -59,5 +59,3 @@ class twoThreeTree
 let tree = new twoThreeTree(5)
 
 console.log(tree)
-
-console.log("commit try")
